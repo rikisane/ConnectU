@@ -8,7 +8,7 @@
  * if your Lab 1 implementation is incomplete.
  * * ONLY uncomment saveData() after you have verified Lab 1 works!
  */
-//hello my name is Riki...
+//hello my name is Riki....
 
 #include <iostream>
 #include <string>
